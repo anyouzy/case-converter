@@ -1,2 +1,0 @@
-#case-converter
->no license
